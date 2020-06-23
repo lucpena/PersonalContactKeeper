@@ -5,8 +5,8 @@ You canc reate an account, login, Create a contact, Read a contact, Update a con
 
 You can access the application here. And if you want to use an already made account, use the account below:
 
-Email: okarin@gmail.com
-Passwaord: 123456
+- Email: okarin@gmail.com 
+- Password: 123456
 
 [Personal Contact Keeper](https://murmuring-stream-10095.herokuapp.com/Login)
 
