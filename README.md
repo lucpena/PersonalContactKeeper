@@ -13,10 +13,7 @@ You can access the application here. And if you want to use an already made acco
 Or you can just see the screens:
 
 ![Login screen](https://github.com/lucpena/PersonalContactKeeper/blob/master/ss/login.png)
-Login screen
 
 ![Register screen](https://github.com/lucpena/PersonalContactKeeper/blob/master/ss/register.png)
-Register screen
 
 ![Home screen](https://github.com/lucpena/PersonalContactKeeper/blob/master/ss/home.png)
-Home screen
