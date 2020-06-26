@@ -10,7 +10,7 @@ You can access the application in the link below. And if you want to use an alre
 
 [Personal Contact Keeper](https://murmuring-stream-10095.herokuapp.com/Login)
 
-#Screenshots
+# Screenshots
 
 ![Login screen](https://github.com/lucpena/PersonalContactKeeper/blob/master/ss/login.png)
 
