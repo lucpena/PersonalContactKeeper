@@ -3,8 +3,6 @@ A Personal Contact Keeper made with MERN Full Stack (MongoDB, Express, React and
 The project is a full CRUD using a real cloud data base, and a complete login functionaly, with pasword encryptation.
 You can create an account, login, Create a contact, Read a contact, Update a contact and Delete a contact. 
 
-[Personal Contact Keeper](https://murmuring-stream-10095.herokuapp.com/Login)
-
 # Screenshots
 
 ![Login screen](https://github.com/lucpena/PersonalContactKeeper/blob/master/ss/login.png)
