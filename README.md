@@ -1,7 +1,5 @@
 # PersonalContactKeeper
-A Personal Contact Keeper made with MERN Full Stack (MongoDB, Express, React and Node.js). 
-The project is a full CRUD using a real cloud data base, and a complete login functionaly, with pasword encryptation.
-You can create an account, login, Create a contact, Read a contact, Update a contact and Delete a contact. 
+A Personal Contact Keeper made with MERN Full Stack (MongoDB, Express, React and Node.js). This project is a full CRUD, using a real cloud data base, and a complete login functionally, with password and encryption. You can create an account, login, Create, Read Update and Delete a contact.
 
 # Screenshots
 
